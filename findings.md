@@ -131,7 +131,7 @@ This section identifies the most effective solutions to combat stress.
 
 * This scatter plot shows the relationship between a user's weekly hours of physical activity and their reported stress level, revealing if a trend exists.
 
-* **Key Finding:** The analysis confirmed a strong, clear negative correlation between physical activity and stress. The more hours of physical activity per week, the lower the average stress level.
+* **Key Finding:** The analysis confirmed a clear negative correlation between physical activity and stress. The more hours of physical activity per week, the lower the average stress level.
 
 #### 3. Mental health score by wellness habits (Heatmap)
 
